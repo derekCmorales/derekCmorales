@@ -1,6 +1,6 @@
 ### Hi there 👋, Derek Morales
 #### Software Engineer | Comp-Sci Student
-![Software Engineer | Comp-Sci Student](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Software Engineer | Comp-Sci Student](https://github.com/derekCmorales/derekCmorales/blob/main/BANNER-GITHUB.png)
 
 I'm Derek from Guatemala, and I'm a student at Universidad Rafael Landívar. I really enjoy learning about programming and solutions that can make a significant impacr in our society.
 
