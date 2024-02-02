@@ -2,7 +2,7 @@
 #### Software Engineer | Comp-Sci Student
 ![Software Engineer | Comp-Sci Student](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-I'm Derek from Guatemala, and I'm a student at Universidad Rafael Landívar. I really enjoy learning about developing. Python Enthusiast.
+I'm Derek from Guatemala, and I'm a student at Universidad Rafael Landívar. I really enjoy learning about programming and solutions that can make a significant impacr in our society.
 
 - 📫 How to reach me: derek.calderonmorales@gmail.com 
 - ⚡ Fun fact: Part-time Bodybuilding 
